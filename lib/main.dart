@@ -13,7 +13,7 @@ class Newapp extends StatelessWidget{
         backgroundColor: Colors.deepPurple,
         title: Container(
           width: double.infinity,
-          color: Colors.white24,
+          color: Colors.white,
           child: Text(
             'Data',
             style: TextStyle(
